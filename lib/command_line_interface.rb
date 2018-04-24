@@ -1,4 +1,3 @@
-
 def welcome
   puts "Hello, how's it going?"
 end
